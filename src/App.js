@@ -3,7 +3,7 @@ import TOC from "./components/TOC"; // TOC 는 해당 경로에서 가져온다�
 import Content from "./components/Content";
 import Subject from "./components/Subject";
 import './App.css';
-
+// git test
 /* 컴포넌트 만들기 */
 class App extends Component {
   constructor(props){ // render() 메소드보다 먼저 호출되어 초기화를 담당한다.
